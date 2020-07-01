@@ -12,8 +12,8 @@
     "require-jsdoc": "off",
     "linebreak-style": "off",
     "eol-last": "off",
-    "quotes": [2, "single", { "avoidEscape": true }],
-    ""
+//    "quotes": [2, "single", { "avoidEscape": true }],
+    "operator-linebreak": "off"
   },
   "extends": [
     "eslint:recommended", "google"
